@@ -1,0 +1,14 @@
+C:\WORKSPACE - C#\multithread\multithread\bin\Debug\net7.0\multithread.exe
+C:\WORKSPACE - C#\multithread\multithread\bin\Debug\net7.0\multithread.deps.json
+C:\WORKSPACE - C#\multithread\multithread\bin\Debug\net7.0\multithread.runtimeconfig.json
+C:\WORKSPACE - C#\multithread\multithread\bin\Debug\net7.0\multithread.dll
+C:\WORKSPACE - C#\multithread\multithread\bin\Debug\net7.0\multithread.pdb
+C:\WORKSPACE - C#\multithread\multithread\obj\Debug\net7.0\multithread.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORKSPACE - C#\multithread\multithread\obj\Debug\net7.0\multithread.AssemblyInfoInputs.cache
+C:\WORKSPACE - C#\multithread\multithread\obj\Debug\net7.0\multithread.AssemblyInfo.cs
+C:\WORKSPACE - C#\multithread\multithread\obj\Debug\net7.0\multithread.csproj.CoreCompileInputs.cache
+C:\WORKSPACE - C#\multithread\multithread\obj\Debug\net7.0\multithread.dll
+C:\WORKSPACE - C#\multithread\multithread\obj\Debug\net7.0\refint\multithread.dll
+C:\WORKSPACE - C#\multithread\multithread\obj\Debug\net7.0\multithread.pdb
+C:\WORKSPACE - C#\multithread\multithread\obj\Debug\net7.0\multithread.genruntimeconfig.cache
+C:\WORKSPACE - C#\multithread\multithread\obj\Debug\net7.0\ref\multithread.dll
